@@ -1,0 +1,5 @@
+Documentation For AID VISION:
+
+step 1: open Data(D) Disk.
+step 2: Then open AID VISION TECH folder
+step 3: Click the index.html chrome file to see the website.
